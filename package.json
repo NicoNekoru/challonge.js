@@ -1,0 +1,22 @@
+{
+  "name": "challonge.js",
+  "version": "1.0.0",
+  "description": "A challonge api for js",
+  "main": "challonge.js",
+  "scripts": {
+    "test": "node challonge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoNekoru/challonge.js.git"
+  },
+  "keywords": [
+    "challonge"
+  ],
+  "author": "NicoNekoru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoNekoru/challonge.js/issues"
+  },
+  "homepage": "https://github.com/NicoNekoru/challonge.js#readme"
+}
