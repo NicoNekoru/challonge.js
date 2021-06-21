@@ -1,5 +1,5 @@
 {
-  "name": "@niconekoru/challonge.js",
+  "name": "simple-challonge-api",
   "version": "1.0.0",
   "description": "A challonge api for js",
   "main": "challonge.js",

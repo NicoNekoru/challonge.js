@@ -3,13 +3,13 @@
 ### Install
 
 ```bash
-$ npm install challonge.js
+$ npm install simple-challonge-api
 ```
 
 ### Get all use the API for your account
 
 ```js
-const Challonge = require('challonge.js');
+const Challonge = require('simple-challonge-api');
 
 const client = new Challonge({
 	"username" : "Your challonge username",
