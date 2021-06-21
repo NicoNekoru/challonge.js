@@ -4,7 +4,7 @@
   "description": "A challonge api for js",
   "main": "challonge.js",
   "scripts": {
-    "test": "node challonge.js"
+    "test": "node ./src/challonge.js"
   },
   "repository": {
     "type": "git",
