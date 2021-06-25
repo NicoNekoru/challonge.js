@@ -47,7 +47,7 @@ client.matches.index().then(h => console.log(h)
 ```
 
 ### Run Tests
-[![Build Status](https://api.travis-ci.com/NicoNekoru/challonge.js.svg?branch=main)](https://api.travis-ci.com/NicoNekoru/challonge.js)
+[![Build Status](https://api.travis-ci.com/NicoNekoru/challonge.js.svg?branch=main)](https://travis-ci.com/NicoNekoru/challonge.js)
 
 ```bash
 $ npm test
