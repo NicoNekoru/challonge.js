@@ -33,7 +33,7 @@ When using the [create_bulk](https://api.challonge.com/v1/documents/participants
 
 Everything here returns promises synchronously you can than acces with `.then`. Example:
 ```js
-client.matches.index().then(h => console.log(h)
+client.matches.index().then(h => console.log(h))
 ```
 
 ## Development
